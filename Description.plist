@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Display Name</key>
+	<string>redcloud</string>
+	<key>Folder Name</key>
+	<string>redcloud.mailstationery</string>
+	<key>HTML File</key>
+	<string>content.html</string>
+	<key>Headers</key>
+	<dict>
+		<key>Subject</key>
+		<string>Template</string>
+		<key>To</key>
+		<array>
+			<string>redcloud</string>
+		</array>
+	</dict>
+	<key>Is User Created</key>
+	<string>YES</string>
+	<key>Stationery ID</key>
+	<string>D77A4B16-80E0-49DC-9FC7-3DDD4B3855F9</string>
+</dict>
+</plist>
